@@ -1,0 +1,137 @@
+{
+    "id": 33,
+    "sendingSlots": [
+        {
+            "deadlineString": "2021-03-29 07:02:08",
+            "assignedMailboxType": "measurement"
+        },
+        {
+            "deadlineString": "2021-03-29 07:34:30",
+            "assignedMailboxType": "interaction"
+        },
+        {
+            "deadlineString": "2021-03-29 08:05:26",
+            "assignedMailboxType": "interaction"
+        },
+        {
+            "deadlineString": "2021-03-29 08:24:11",
+            "assignedMailboxType": "interaction"
+        },
+        {
+            "deadlineString": "2021-03-29 08:56:09",
+            "assignedMailboxType": "interaction"
+        },
+        {
+            "deadlineString": "2021-03-29 09:34:30",
+            "assignedMailboxType": "interaction"
+        },
+        {
+            "deadlineString": "2021-03-29 09:50:32",
+            "assignedMailboxType": "interaction"
+        },
+        {
+            "deadlineString": "2021-03-29 10:25:26",
+            "assignedMailboxType": "interaction"
+        },
+        {
+            "deadlineString": "2021-03-29 10:57:37",
+            "assignedMailboxType": "interaction"
+        },
+        {
+            "deadlineString": "2021-03-29 11:24:25",
+            "assignedMailboxType": "measurement"
+        },
+        {
+            "deadlineString": "2021-03-29 11:53:18",
+            "assignedMailboxType": "interaction"
+        },
+        {
+            "deadlineString": "2021-03-29 12:21:57",
+            "assignedMailboxType": "interaction"
+        },
+        {
+            "deadlineString": "2021-03-29 12:57:55",
+            "assignedMailboxType": "interaction"
+        },
+        {
+            "deadlineString": "2021-03-29 13:13:20",
+            "assignedMailboxType": "interaction"
+        },
+        {
+            "deadlineString": "2021-03-29 13:47:50",
+            "assignedMailboxType": "interaction"
+        },
+        {
+            "deadlineString": "2021-03-29 14:23:09",
+            "assignedMailboxType": "interaction"
+        },
+        {
+            "deadlineString": "2021-03-29 14:48:06",
+            "assignedMailboxType": "interaction"
+        },
+        {
+            "deadlineString": "2021-03-29 15:21:43",
+            "assignedMailboxType": "interaction"
+        },
+        {
+            "deadlineString": "2021-03-29 15:36:56",
+            "assignedMailboxType": "measurement"
+        },
+        {
+            "deadlineString": "2021-03-29 16:10:39",
+            "assignedMailboxType": "interaction"
+        },
+        {
+            "deadlineString": "2021-03-29 16:44:54",
+            "assignedMailboxType": "interaction"
+        },
+        {
+            "deadlineString": "2021-03-29 17:19:03",
+            "assignedMailboxType": "interaction"
+        },
+        {
+            "deadlineString": "2021-03-29 17:39:22",
+            "assignedMailboxType": "interaction"
+        },
+        {
+            "deadlineString": "2021-03-29 18:10:21",
+            "assignedMailboxType": "interaction"
+        },
+        {
+            "deadlineString": "2021-03-29 18:37:15",
+            "assignedMailboxType": "interaction"
+        },
+        {
+            "deadlineString": "2021-03-29 19:14:18",
+            "assignedMailboxType": "interaction"
+        },
+        {
+            "deadlineString": "2021-03-29 19:36:29",
+            "assignedMailboxType": "interaction"
+        },
+        {
+            "deadlineString": "2021-03-29 20:03:07",
+            "assignedMailboxType": "measurement"
+        },
+        {
+            "deadlineString": "2021-03-29 20:31:05",
+            "assignedMailboxType": "interaction"
+        },
+        {
+            "deadlineString": "2021-03-29 21:08:05",
+            "assignedMailboxType": "interaction"
+        },
+        {
+            "deadlineString": "2021-03-29 21:23:00",
+            "assignedMailboxType": "interaction"
+        },
+        {
+            "deadlineString": "2021-03-29 22:07:07",
+            "assignedMailboxType": "interaction"
+        },
+        {
+            "deadlineString": "2021-03-29 22:26:44",
+            "assignedMailboxType": "interaction"
+        }
+    ]
+}
